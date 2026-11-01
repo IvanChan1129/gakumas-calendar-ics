@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜浅見 香月
+BEGIN:VEVENT
+UID:1SdYy0QoFxQdlINU3Hfj@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:伊藤舞音と浅見香月のおかづラジオ
+DTSTART:20261104T110000Z
+DTEND:20261104T120000Z
+DESCRIPTION:出演者: 伊藤 舞音、浅見 香月\n配信種別: live\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/pxwcw_info/status/2113586232412520615
+END:VEVENT
+BEGIN:VEVENT
+UID:93FaPLPOUdk85H1Fm2of@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:浅見香月の月まで大ぼーそー！
+DTSTART:20261110T110000Z
+DTEND:20261110T114500Z
+DESCRIPTION:出演者: 浅見 香月\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1nnuh0fp9U8QuWt3u4@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:浅見香月の月まで大ぼーそー！
+DTSTART:20261124T110000Z
+DTEND:20261124T114500Z
+DESCRIPTION:出演者: 浅見 香月\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:T4h5jFuI1RbBw0a0zLX7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 【ゲスト：川村玲
+ 奈、浅見香月】昼の部
+DTSTART:20261213T034500Z
+DTEND:20261213T051500Z
+DESCRIPTION:出演者: 川村 玲奈、浅見 香月\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088205339749654630
+END:VEVENT
+BEGIN:VEVENT
+UID:tXddnEESOA5ce1QBWHiS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 【ゲスト：川村玲
+ 奈、浅見香月】夜の部
+DTSTART:20261213T071500Z
+DTEND:20261213T084500Z
+DESCRIPTION:出演者: 川村 玲奈、浅見 香月\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088205339749654630
+END:VEVENT
+BEGIN:VEVENT
+UID:48O2bRiLknwTrdGz3kmQ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルアカふぇす！〜ろっく・うぃず・みー♪〜 DAY
+ 1
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION:出演者: 浅見 香月\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kzk_asami_0105/status/2114596870941270102
+END:VEVENT
+BEGIN:VEVENT
+UID:wLmw6HMwISUYVgGzzoiJ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルアカふぇす！〜ろっく・うぃず・みー♪〜 DAY
+ 2
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DESCRIPTION:出演者: 浅見 香月\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kzk_asami_0105/status/2114596870941270102
+END:VEVENT
+END:VCALENDAR

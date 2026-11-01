@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜七瀬 つむぎ
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:HsPQ2hqNhtOHgz5uBHn5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261109T030000Z
+DTEND:20261109T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:XIUAwbJneG92OLPHsgU0@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜2ショット写メ会＞
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:OghBA3npV8v2lCN2TfKt@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261123T030000Z
+DTEND:20261123T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:naHg0ypfcQ0PePIIZIc4@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』①
+DTSTART:20261126T100000Z
+DTEND:20261126T120000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:QnWkI9gC6sbfSXdHbPy7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』②
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:XWYHXf8mwCR2KgD9n05L@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』③
+DTSTART:20261127T100000Z
+DTEND:20261127T120000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:PqP5HfurWtvjBlfX95LF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』④
+DTSTART:20261128T043000Z
+DTEND:20261128T063000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:RzVwvNOhCGYFLXhYime9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』⑤
+DTSTART:20261128T093000Z
+DTEND:20261128T113000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:SoQPdOpWL0Mf7CuvNpW5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ゲキクロ12周年企画 [GEKIROCK CLOTHING Presents"WEAR THE MUS
+ IC"] 
+DTSTART:20261220T040000Z
+DTEND:20261220T120000Z
+DESCRIPTION:出演者: 飯田 ヒカル、七瀬 つむぎ、湊 みや\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gekirock_shop/status/2113105540700364853
+END:VEVENT
+BEGIN:VEVENT
+UID:zNJ7wpHvcdlUTYrNQfCT@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜写真集サイン会＞in 東京都
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:kh3ZzqdjiwB2qlQ7CRQF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜写真集サイン会＞in 大阪市
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:zY7wYmFgexo891p2pmpD@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:音泉祭り 2027 東京
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:出演者: 長月 あおい、七瀬 つむぎ、松田 彩音
+ 、飯田 ヒカル\n配信種別: other\n出典: https://gakusei-cheer-po
+ rtal.web.app/calendar
+URL:https://x.com/onsenradio/status/2068574914639204857
+END:VEVENT
+END:VCALENDAR

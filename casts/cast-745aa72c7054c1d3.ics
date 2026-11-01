@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜小鹿 なお
+BEGIN:VEVENT
+UID:znIhZDBTNbgm76O4egZH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:I‘ll be there for you〜寄り添うラジオ〜
+DTSTART:20261106T120000Z
+DTEND:20261106T130000Z
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:M0sCXDF0gdaDwBVc99x8@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:I‘ll be there for you〜寄り添うラジオ〜
+DTSTART:20261120T120000Z
+DTEND:20261120T130000Z
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:Zep7vsTTbf3I3Js8k6yb@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:小鹿なお FanMeeting in Taipei 2027
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/ojikanao0809/status/2116422617163047323
+END:VEVENT
+BEGIN:VEVENT
+UID:PM8Rg6pZWWXHjFRhJTQs@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ことばとば】ゲスト：薄井友里さん 小鹿なおさ
+ ん 【1部】
+DTSTART:20270131T030000Z
+DTEND:20270131T053000Z
+DESCRIPTION:出演者: 薄井 友里、小鹿 なお\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2110294548614135834
+END:VEVENT
+BEGIN:VEVENT
+UID:utIj0TJpbuHJ2ofrPJLJ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ことばとば】ゲスト：薄井友里さん 小鹿なおさ
+ ん 【2部】
+DTSTART:20270131T063000Z
+DTEND:20270131T090000Z
+DESCRIPTION:出演者: 薄井 友里、小鹿 なお\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2110294548614135834
+END:VEVENT
+BEGIN:VEVENT
+UID:ogYv4WxfBeOx5mgTfgQH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【飯田ヒカル、小鹿なお】みんなに会いに行くよ!
+  in 静岡 昼の部
+DTSTART:20270516T030000Z
+DTEND:20270516T051500Z
+DESCRIPTION:出演者: 飯田 ヒカル、小鹿 なお\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2111325784908657143
+END:VEVENT
+BEGIN:VEVENT
+UID:HvjfWh9P3zSZI9zzCZuZ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【飯田ヒカル、小鹿なお】みんなに会いに行くよ!
+  in 静岡 夜の部
+DTSTART:20270516T063000Z
+DTEND:20270516T084500Z
+DESCRIPTION:出演者: 飯田 ヒカル、小鹿 なお\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2111325784908657143
+END:VEVENT
+END:VCALENDAR

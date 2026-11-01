@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜天音 ゆかり
+BEGIN:VEVENT
+UID:63oQ36o66T8wL2MzNOtB@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:「H.I.F編」燕実装&【ガラクタロード】燕ガシャ開
+ 催
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:出演者: 学園アイドルマスター、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2112121592121790669
+END:VEVENT
+BEGIN:VEVENT
+UID:BB7fRXK53SOzlRP5JKNZ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:立教大学学園祭 St. Paul's Festival 天音ゆかりトーク
+ ショー ～音色奏でる新”天”地～
+DTSTART:20261103T023000Z
+DTEND:20261103T043000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2097646312053477503
+END:VEVENT
+BEGIN:VEVENT
+UID:RdB8LpbmSOx5tnPJD6wf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター、天
+ 音 ゆかり\n配信種別: recorded\n出典: https://gakusei-cheer-porta
+ l.web.app/calendar
+URL:https://x.com/gkmas_official/status/2115425851127083107
+END:VEVENT
+BEGIN:VEVENT
+UID:XjkrnpjkBHOmCCP1cZ3K@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー♪
+DTSTART:20261106T100000Z
+DTEND:20261106T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:tdZGbZJLHTmzwG6rlWJw@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:IM＠S RADIO #5
+DTSTART:20261110T110000Z
+DTEND:20261110T120000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2112505367712432500
+END:VEVENT
+BEGIN:VEVENT
+UID:TvK838XD9N1ahTIvIe0h@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里のツイてる！フロンティア
+DTSTART:20261113T100000Z
+DTEND:20261113T110000Z
+DESCRIPTION:出演者: 薄井 友里、天音 ゆかり\n配信種別: live
+ \n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yuri_usui0515/status/2116413594636300771
+END:VEVENT
+BEGIN:VEVENT
+UID:Umg0QI2lIWw3rhwZT60E@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー♪
+DTSTART:20261120T100000Z
+DTEND:20261120T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2nMlEX7VrxFaaa9PPyk5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ANIMAXMUSIX 2026
+DTSTART:20261121T040000Z
+DTEND:20261121T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2100858489489047793
+END:VEVENT
+BEGIN:VEVENT
+UID:DORRXhACofcqpbk27ABo@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー Birthday Party 昼の
+ 部
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+DESCRIPTION:出演者: 天音 ゆかり、川村 玲奈\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2098389242296795617
+END:VEVENT
+BEGIN:VEVENT
+UID:42MUGpXTXX98KUz15yKj@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー Birthday Party 夜の
+ 部
+DTSTART:20261122T090000Z
+DTEND:20261122T103000Z
+DESCRIPTION:出演者: 天音 ゆかり、陽高 真白\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2098389242296795617
+END:VEVENT
+BEGIN:VEVENT
+UID:wmQNCdpHcKX9Kf0CfUoH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜 昼公演
+DTSTART:20261123T043000Z
+DTEND:20261123T063000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2116142594589917436
+END:VEVENT
+BEGIN:VEVENT
+UID:DLIeOQ7rSnFBkWcgu6kL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜 夜公演
+DTSTART:20261123T083000Z
+DTEND:20261123T103000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2116142594589917436
+END:VEVENT
+BEGIN:VEVENT
+UID:BtA7DU9nPB3nSN5WSUiS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ブルアカ』トークステージ
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2095718520894234798
+END:VEVENT
+BEGIN:VEVENT
+UID:cljezViFT0CPGbvALyxM@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ステラソラ』トークステージ
+DTSTART:20261128T074000Z
+DTEND:20261128T082500Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2105951714272739531
+END:VEVENT
+BEGIN:VEVENT
+UID:oVpXRT5k3lA695LGsPHy@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ブルアカ』トークステージ
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2095718520894234798
+END:VEVENT
+BEGIN:VEVENT
+UID:rFQGSBZN8K1vwqAHkIH1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ステラソラ』トークステージ
+DTSTART:20261129T051500Z
+DTEND:20261129T060000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2105951714272739531
+END:VEVENT
+BEGIN:VEVENT
+UID:4ocEiigYEftsKgMXoMsV@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【1部】
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:NHCPkgzNdfTNqXUc6cTi@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【2部】
+DTSTART:20261219T063000Z
+DTEND:20261219T083000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:DfDvOdqpLhlOlc6YtQ9A@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:アース･スター エンターテイメント 20周年FES ～
+ ずっと「ありがとう」、ずっと「よろしくね」!～
+DTSTART:20261226T070000Z
+DTEND:20261226T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088241237157724621
+END:VEVENT
+BEGIN:VEVENT
+UID:hXdxSDOHPgygBi7gCR09@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 昼の部
+DTSTART:20261227T030000Z
+DTEND:20261227T051500Z
+DESCRIPTION:出演者: 湊 みや、天音 ゆかり\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2083040928747679897
+END:VEVENT
+BEGIN:VEVENT
+UID:s70wFA53rPedQWVbjXnq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 夜の部
+DTSTART:20261227T063000Z
+DTEND:20261227T084500Z
+DESCRIPTION:出演者: 湊 みや、天音 ゆかり\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2083040928747679897
+END:VEVENT
+BEGIN:VEVENT
+UID:GfKQ3dvBNm4K09AVPjP9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 昼の部
+DTSTART:20270117T030000Z
+DTEND:20270117T051500Z
+DESCRIPTION:出演者: 天音 ゆかり、伊藤 舞音\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2073663170879615059
+END:VEVENT
+BEGIN:VEVENT
+UID:fwdQRoN8b9JIRIyvbFte@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 夜の部
+DTSTART:20270117T063000Z
+DTEND:20270117T084500Z
+DESCRIPTION:出演者: 天音 ゆかり、伊藤 舞音\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2073663170879615059
+END:VEVENT
+BEGIN:VEVENT
+UID:rpVPGfJwYQEBQUGyAmV7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 昼の部
+DTSTART:20270124T041500Z
+DTEND:20270124T063000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:hOhS5TwO1dN3TV58kCzL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 夜の部
+DTSTART:20270124T074500Z
+DTEND:20270124T100000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:JlJtqW7x1yXjsbcWyqSf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:縁結びのゆかり様 『2nd EVENT⚔️縁と誓いの理想郷
+  昼の部』
+DTSTART:20270207T041500Z
+DTEND:20270207T063000Z
+DESCRIPTION:出演者: 天音 ゆかり、花岩 香奈、湊 みや\n配
+ 信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukarisama_en/status/2116506003273597360
+END:VEVENT
+BEGIN:VEVENT
+UID:5BiSqVsnFUXCEB05WclX@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:縁結びのゆかり様 『2nd EVENT⚔️縁と誓いの理想郷
+  夜の部』
+DTSTART:20270207T084500Z
+DTEND:20270207T110000Z
+DESCRIPTION:出演者: 天音 ゆかり、花岩 香奈、湊 みや\n配
+ 信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukarisama_en/status/2116506003273597360
+END:VEVENT
+END:VCALENDAR

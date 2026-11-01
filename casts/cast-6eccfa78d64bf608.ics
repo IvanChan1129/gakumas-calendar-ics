@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜学園アイドルマスター
+BEGIN:VEVENT
+UID:63oQ36o66T8wL2MzNOtB@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:「H.I.F編」燕実装&【ガラクタロード】燕ガシャ開
+ 催
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:出演者: 学園アイドルマスター、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2112121592121790669
+END:VEVENT
+BEGIN:VEVENT
+UID:0C4hZYK677H3yYIhdtgF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:初星学園 LIVE TOUR Single「修楽旅行」
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://shop.asobistore.jp/products/detail/248413-00-00-00
+END:VEVENT
+BEGIN:VEVENT
+UID:RdB8LpbmSOx5tnPJD6wf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター、天
+ 音 ゆかり\n配信種別: recorded\n出典: https://gakusei-cheer-porta
+ l.web.app/calendar
+URL:https://x.com/gkmas_official/status/2115425851127083107
+END:VEVENT
+BEGIN:VEVENT
+UID:qfmRyfDp5qZZyxDwjpKA@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ガラクタロード】美鈴ガシャ&千奈ガシャ開催
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+DESCRIPTION:出演者: 学園アイドルマスター、春咲 暖、伊藤
+  舞音\n配信種別: other\n出典: https://gakusei-cheer-portal.web.app
+ /calendar
+URL:https://x.com/gkmas_official/status/2112121592121790669
+END:VEVENT
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:EWyK8iUkHwE9hdYe66I9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261111T120000Z
+DTEND:20261111T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8zc4M8e9RYCUF1zpiVur@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星音楽祭Blu-ray
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2088175101510607200
+END:VEVENT
+BEGIN:VEVENT
+UID:fbTN4wpGRT5hZvI29pfo@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Gravure Solo Collection Vol.1「ねえ、言っちゃうよ。」
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://shop.asobistore.jp/products/detail/248312-00-00-00
+END:VEVENT
+BEGIN:VEVENT
+UID:rNIt0wijD0bxV8uJ5tGe@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261118T120000Z
+DTEND:20261118T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4Mr9jtM1WqUA6lOG8rha@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261125T120000Z
+DTEND:20261125T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:6nw5Mm4Bx0eR20tCahTa@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Gravure Solo Collection Vol.2「Agitato」 発売
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2104522980969857234
+END:VEVENT
+BEGIN:VEVENT
+UID:SLuidLiPQmIR7pixlwCs@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:初星学園 Conceptual Single Collection 発売
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2104523235140546560
+END:VEVENT
+BEGIN:VEVENT
+UID:fzoXpmf4mPNjgANTVbVI@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 3rd Anniversary
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+END:VCALENDAR

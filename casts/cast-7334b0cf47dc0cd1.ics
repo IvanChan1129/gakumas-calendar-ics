@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜松田 彩音
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:HsPQ2hqNhtOHgz5uBHn5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261109T030000Z
+DTEND:20261109T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:OghBA3npV8v2lCN2TfKt@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261123T030000Z
+DTEND:20261123T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4ocEiigYEftsKgMXoMsV@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【1部】
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:NHCPkgzNdfTNqXUc6cTi@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【2部】
+DTSTART:20261219T063000Z
+DTEND:20261219T083000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:rpVPGfJwYQEBQUGyAmV7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 昼の部
+DTSTART:20270124T041500Z
+DTEND:20270124T063000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:hOhS5TwO1dN3TV58kCzL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 夜の部
+DTSTART:20270124T074500Z
+DTEND:20270124T100000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:zY7wYmFgexo891p2pmpD@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:音泉祭り 2027 東京
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:出演者: 長月 あおい、七瀬 つむぎ、松田 彩音
+ 、飯田 ヒカル\n配信種別: other\n出典: https://gakusei-cheer-po
+ rtal.web.app/calendar
+URL:https://x.com/onsenradio/status/2068574914639204857
+END:VEVENT
+END:VCALENDAR

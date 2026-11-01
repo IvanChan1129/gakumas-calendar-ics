@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALNAME:学マス声優｜村田 綾香
+BEGIN:VEVENT
+UID:RdB8LpbmSOx5tnPJD6wf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター、天
+ 音 ゆかり\n配信種別: recorded\n出典: https://gakusei-cheer-porta
+ l.web.app/calendar
+URL:https://x.com/gkmas_official/status/2115425851127083107
+END:VEVENT
+BEGIN:VEVENT
+UID:EWyK8iUkHwE9hdYe66I9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261111T120000Z
+DTEND:20261111T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:rNIt0wijD0bxV8uJ5tGe@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261118T120000Z
+DTEND:20261118T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4Mr9jtM1WqUA6lOG8rha@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261125T120000Z
+DTEND:20261125T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:S4gOp1DP9jJUKlfBxkol@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:マウスプロモーション附属俳優養成所 アフレコ授
+ 業見学体験会⑱
+DTSTART:20261129T021000Z
+DTEND:20261129T052000Z
+DESCRIPTION:出演者: 村田 綾香\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mausu_youseijyo/status/2095794798578020380
+END:VEVENT
+BEGIN:VEVENT
+UID:EUUuINw65Jne3oMVd4Ev@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:マウスプロモーション附属俳優養成所 アフレコ授
+ 業見学体験会⑲
+DTSTART:20261129T064000Z
+DTEND:20261129T095000Z
+DESCRIPTION:出演者: 村田 綾香\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mausu_youseijyo/status/2095794798578020380
+END:VEVENT
+END:VCALENDAR
