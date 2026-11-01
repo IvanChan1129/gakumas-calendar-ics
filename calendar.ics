@@ -1,0 +1,1879 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Gakumas Firefox ICS Export//ZH
+X-WR-CALNAME:学マス声優番組スケジュール
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:63oQ36o66T8wL2MzNOtB@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:「H.I.F編」燕実装&【ガラクタロード】燕ガシャ開
+ 催
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:出演者: 学園アイドルマスター、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2112121592121790669
+END:VEVENT
+BEGIN:VEVENT
+UID:toZbNCTCoopwmGDyGfUp@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:まちかね祭  飯田ヒカル トークショー ぴかるん概
+ 論
+DTSTART:20261101T030000Z
+DTEND:20261101T050000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/Iida_Hikaru_828/status/2098622843403816977
+END:VEVENT
+BEGIN:VEVENT
+UID:QVd2XiZnsrcUVehmMrf5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:常盤祭　湊みや・長月あおいのみゃーあおアカデ
+ ミー
+DTSTART:20261101T033000Z
+DTEND:20261101T060000Z
+DESCRIPTION:出演者: 湊 みや、長月 あおい\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/YNU_genshiken/status/2097218384223940766
+END:VEVENT
+BEGIN:VEVENT
+UID:K8UQUriuSyXegpFyAmhe@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩香奈のはないわーるど！
+DTSTART:20261102T090000Z
+DTEND:20261102T093000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:y4qYboZJpqPoiL7nIcZW@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのOne and Only
+DTSTART:20261102T110000Z
+DTEND:20261102T120000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:aO8xWxDAuUSB6Y1tuhwU@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261102T140000Z
+DTEND:20261102T143000Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:BB7fRXK53SOzlRP5JKNZ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:立教大学学園祭 St. Paul's Festival 天音ゆかりトーク
+ ショー ～音色奏でる新”天”地～
+DTSTART:20261103T023000Z
+DTEND:20261103T043000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2097646312053477503
+END:VEVENT
+BEGIN:VEVENT
+UID:lNPrPXAyeKRP5npGRtRS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ごきげんよう！百合咲リヲです。
+DTSTART:20261103T100000Z
+DTEND:20261103T110000Z
+DESCRIPTION:出演者: 薄井 友里\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0C4hZYK677H3yYIhdtgF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:初星学園 LIVE TOUR Single「修楽旅行」
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://shop.asobistore.jp/products/detail/248413-00-00-00
+END:VEVENT
+BEGIN:VEVENT
+UID:K1kVDWH4THaQAjevDJyH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやのStreaming Club
+DTSTART:20261104T030000Z
+DTEND:20261104T040000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: live\n出典: https://gaku
+ sei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:aFhirEIHa9ksF1SzCNZp@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:大渕野々花のののののべる【ゲスト：湊みや】
+DTSTART:20261104T040000Z
+DTEND:20261104T050000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/miya_minato1216/status/2107732615247872212
+END:VEVENT
+BEGIN:VEVENT
+UID:1SdYy0QoFxQdlINU3Hfj@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:伊藤舞音と浅見香月のおかづラジオ
+DTSTART:20261104T110000Z
+DTEND:20261104T120000Z
+DESCRIPTION:出演者: 伊藤 舞音、浅見 香月\n配信種別: live\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/pxwcw_info/status/2113586232412520615
+END:VEVENT
+BEGIN:VEVENT
+UID:RdB8LpbmSOx5tnPJD6wf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター、天
+ 音 ゆかり\n配信種別: recorded\n出典: https://gakusei-cheer-porta
+ l.web.app/calendar
+URL:https://x.com/gkmas_official/status/2115425851127083107
+END:VEVENT
+BEGIN:VEVENT
+UID:mNFE57Hiv8Nd2LEIJ5VL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのStreaming Club
+DTSTART:20261105T030000Z
+DTEND:20261105T040000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:nDJgRBajwpth9sEULsjC@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261105T140000Z
+DTEND:20261105T145900Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:qfmRyfDp5qZZyxDwjpKA@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ガラクタロード】美鈴ガシャ&千奈ガシャ開催
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+DESCRIPTION:出演者: 学園アイドルマスター、春咲 暖、伊藤
+  舞音\n配信種別: other\n出典: https://gakusei-cheer-portal.web.app
+ /calendar
+URL:https://x.com/gkmas_official/status/2112121592121790669
+END:VEVENT
+BEGIN:VEVENT
+UID:XjkrnpjkBHOmCCP1cZ3K@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー♪
+DTSTART:20261106T100000Z
+DTEND:20261106T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:YwyOywSbx2N1YCCcurBh@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖ののんたいとる
+DTSTART:20261106T110000Z
+DTEND:20261106T113000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:znIhZDBTNbgm76O4egZH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:I‘ll be there for you〜寄り添うラジオ〜
+DTSTART:20261106T120000Z
+DTEND:20261106T130000Z
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:Mh0FD40US9zL7vCfilP1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやの一枚いいですか？
+DTSTART:20261106T140000Z
+DTEND:20261106T143000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:u3IPKDKUVvGR71ywnDt1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY1
+DTSTART:20261107T083000Z
+DTEND:20261107T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:14V46xp4zIB8HvsEFygN@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター LIVE TOUR -標- ファイナル公
+ 演 DAY2
+DTSTART:20261108T083000Z
+DTEND:20261108T130000Z
+DESCRIPTION:出演者: 学園アイドルマスター、長月 あおい、
+ 小鹿 なお、飯田 ヒカル、七瀬 つむぎ、花岩 香奈、伊
+ 藤 舞音、湊 みや、川村 玲奈、薄井 友里、松田 彩音、
+ 陽高 真白、春咲 暖、天音 ゆかり\n配信種別: other\n出典
+ : https://gakusei-cheer-portal.web.app/calendar
+URL:https://idolmaster-official.jp/live_event/gkmas_livetour_shirube/inform
+ ation/final.php
+END:VEVENT
+BEGIN:VEVENT
+UID:HsPQ2hqNhtOHgz5uBHn5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261109T030000Z
+DTEND:20261109T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:hO253fP1Qvv9TY2DMFYD@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩香奈のはないわーるど！
+DTSTART:20261109T090000Z
+DTEND:20261109T093000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0JKIMI4N1eQdgAVugTQw@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261109T140000Z
+DTEND:20261109T143000Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8PmtjaWjPDvtR0dQJAZw@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カンナヒカル（仮）
+DTSTART:20261110T100000Z
+DTEND:20261110T110000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:93FaPLPOUdk85H1Fm2of@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:浅見香月の月まで大ぼーそー！
+DTSTART:20261110T110000Z
+DTEND:20261110T114500Z
+DESCRIPTION:出演者: 浅見 香月\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:tdZGbZJLHTmzwG6rlWJw@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:IM＠S RADIO #5
+DTSTART:20261110T110000Z
+DTEND:20261110T120000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2112505367712432500
+END:VEVENT
+BEGIN:VEVENT
+UID:Ewkf43dmXfBPAxjqGJeq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやのStreaming Club
+DTSTART:20261111T030000Z
+DTEND:20261111T040000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: live\n出典: https://gaku
+ sei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:EWyK8iUkHwE9hdYe66I9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261111T120000Z
+DTEND:20261111T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2pl85koWDdmp8SNtPEgi@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのStreaming Club
+DTSTART:20261112T030000Z
+DTEND:20261112T040000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:TvK838XD9N1ahTIvIe0h@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里のツイてる！フロンティア
+DTSTART:20261113T100000Z
+DTEND:20261113T110000Z
+DESCRIPTION:出演者: 薄井 友里、天音 ゆかり\n配信種別: live
+ \n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yuri_usui0515/status/2116413594636300771
+END:VEVENT
+BEGIN:VEVENT
+UID:v3JppL22R79D859VpIIS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖ののんたいとる
+DTSTART:20261113T110000Z
+DTEND:20261113T113000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:KOhJiPjoNiIYxOGqq1zq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやの一枚いいですか？
+DTSTART:20261113T140000Z
+DTEND:20261113T143000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:XIUAwbJneG92OLPHsgU0@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜2ショット写メ会＞
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:Sjw9X7sRqyPDYkaFPUiA@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルーアーカイブ ～木枯らしぴゅー、金色とこと
+ こ 金沢さんぽ～ 第1部
+DTSTART:20261115T043000Z
+DTEND:20261115T063000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kana_hanaiwa/status/2107792118987346308
+END:VEVENT
+BEGIN:VEVENT
+UID:9UquzikuYwilVON2vsXu@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルーアーカイブ ～木枯らしぴゅー、金色とこと
+ こ 金沢さんぽ～ 第2部
+DTSTART:20261115T080000Z
+DTEND:20261115T100000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kana_hanaiwa/status/2107792118987346308
+END:VEVENT
+BEGIN:VEVENT
+UID:8zc4M8e9RYCUF1zpiVur@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星音楽祭Blu-ray
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2088175101510607200
+END:VEVENT
+BEGIN:VEVENT
+UID:I69MGuvyXWmWeewuufCT@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩香奈のはないわーるど！
+DTSTART:20261116T090000Z
+DTEND:20261116T093000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:88qYnY81b6AlvBDClqXm@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:陽高真白はぽじてぃぶ☆ぷりんせす
+DTSTART:20261116T110000Z
+DTEND:20261116T120000Z
+DESCRIPTION:出演者: 陽高 真白\n配信種別: live\n出典: https://g
+ akusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:s7274VeEXy0aRvx2aWTF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのOne and Only
+DTSTART:20261116T110000Z
+DTEND:20261116T120000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0RDoBqwvodRqoYQTrHQf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261116T140000Z
+DTEND:20261116T143000Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:IzmxgAfF6MDl6oF5PdCC@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田ヒカルのヒカROOM Route OKINAWA 発売
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/iidahikaroom/status/2094387266345177132
+END:VEVENT
+BEGIN:VEVENT
+UID:WvNgBstbX2nSj8q643XO@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ごきげんよう！百合咲リヲです。
+DTSTART:20261117T100000Z
+DTEND:20261117T110000Z
+DESCRIPTION:出演者: 薄井 友里\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:IOWbR6GRhtV9Q4wePat9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田ヒカルのヒカROOM #38
+DTSTART:20261117T110000Z
+DTEND:20261117T120000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:fbTN4wpGRT5hZvI29pfo@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Gravure Solo Collection Vol.1「ねえ、言っちゃうよ。」
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://shop.asobistore.jp/products/detail/248312-00-00-00
+END:VEVENT
+BEGIN:VEVENT
+UID:OO0exdTmnZEJZRD1hD5b@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやのStreaming Club
+DTSTART:20261118T030000Z
+DTEND:20261118T040000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: live\n出典: https://gaku
+ sei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:lQmy8nh8yMMnwWtbrNve@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:希水しおのシォータイム #53
+DTSTART:20261118T110000Z
+DTEND:20261118T120000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/Iida_Hikaru_828/status/2116016012906856899
+END:VEVENT
+BEGIN:VEVENT
+UID:rNIt0wijD0bxV8uJ5tGe@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261118T120000Z
+DTEND:20261118T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:PyIHL5qRhntaQ7gDbEQS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのStreaming Club
+DTSTART:20261119T030000Z
+DTEND:20261119T040000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:Umg0QI2lIWw3rhwZT60E@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー♪
+DTSTART:20261120T100000Z
+DTEND:20261120T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:XhuJywP6XbXhTlLRo1Jl@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖ののんたいとる
+DTSTART:20261120T110000Z
+DTEND:20261120T113000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:M0sCXDF0gdaDwBVc99x8@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:I‘ll be there for you〜寄り添うラジオ〜
+DTSTART:20261120T120000Z
+DTEND:20261120T130000Z
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:YgC6AX8xlQ95x3xSaaXl@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖と陽高真白の「おうちとれーにんぐっ！」
+DTSTART:20261120T120000Z
+DTEND:20261120T130000Z
+DESCRIPTION:出演者: 陽高 真白、春咲 暖\n配信種別: live\n出
+ 典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/uchitore_x/status/2115083394153627665
+END:VEVENT
+BEGIN:VEVENT
+UID:TFqu4Z1c0C3qweYHYYaW@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやの一枚いいですか？
+DTSTART:20261120T140000Z
+DTEND:20261120T143000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:He3fkP5waDhoKFKPJoXk@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:目で聴く物語シナリブ#3 「夕凪にとける」⑤
+DTSTART:20261121T024000Z
+DTEND:20261121T040000Z
+DESCRIPTION:出演者: 伊藤 舞音\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mao_ito05/status/2112158121296847281
+END:VEVENT
+BEGIN:VEVENT
+UID:2nMlEX7VrxFaaa9PPyk5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ANIMAXMUSIX 2026
+DTSTART:20261121T040000Z
+DTEND:20261121T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2100858489489047793
+END:VEVENT
+BEGIN:VEVENT
+UID:ThtsQFiq07ZTMjAnq7ct@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:佐伯伊織･涼本あきほの「だまされたと思って聞
+ いてみな!」～みんなの様子が!おかしい!～  第1部
+DTSTART:20261121T043000Z
+DTEND:20261121T063000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/onsenradio/status/2074840747455766865
+END:VEVENT
+BEGIN:VEVENT
+UID:wko5NLVEZdGFNrsKTZWx@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:目で聴く物語シナリブ#3 「夕凪にとける」⑥
+DTSTART:20261121T064000Z
+DTEND:20261121T080000Z
+DESCRIPTION:出演者: 伊藤 舞音\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mao_ito05/status/2112158121296847281
+END:VEVENT
+BEGIN:VEVENT
+UID:X5o9lnHA80fH6ZaDvdp9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Minato Miya fan meeting in Hong Kong
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:出演者: 湊 みや\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/miya_minato1216/status/2111793062590791939
+END:VEVENT
+BEGIN:VEVENT
+UID:NexUuHBSG4AqSbt1OMqI@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:目で聴く物語シナリブ#3 「夕凪にとける」⑦
+DTSTART:20261122T024000Z
+DTEND:20261122T040000Z
+DESCRIPTION:出演者: 伊藤 舞音\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mao_ito05/status/2112158121296847281
+END:VEVENT
+BEGIN:VEVENT
+UID:DORRXhACofcqpbk27ABo@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー Birthday Party 昼の
+ 部
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+DESCRIPTION:出演者: 天音 ゆかり、川村 玲奈\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2098389242296795617
+END:VEVENT
+BEGIN:VEVENT
+UID:qE3AHGHKdj6Eb9HO4WVk@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:目で聴く物語シナリブ#3 「夕凪にとける」⑧
+DTSTART:20261122T064000Z
+DTEND:20261122T080000Z
+DESCRIPTION:出演者: 伊藤 舞音\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mao_ito05/status/2112158121296847281
+END:VEVENT
+BEGIN:VEVENT
+UID:42MUGpXTXX98KUz15yKj@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音ゆかりのあまねくハーモニー Birthday Party 夜の
+ 部
+DTSTART:20261122T090000Z
+DTEND:20261122T103000Z
+DESCRIPTION:出演者: 天音 ゆかり、陽高 真白\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2098389242296795617
+END:VEVENT
+BEGIN:VEVENT
+UID:UkjKarX2868umgew2tXF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:伊藤舞音のおいでよまおーこく
+DTSTART:20261122T120000Z
+DTEND:20261122T130000Z
+DESCRIPTION:出演者: 伊藤 舞音\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:OghBA3npV8v2lCN2TfKt@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:もえ・つむぎ・きゅーとあぐれっしょんっ！あや
+ ねもいるよ♪
+DTSTART:20261123T030000Z
+DTEND:20261123T040000Z
+DESCRIPTION:出演者: 七瀬 つむぎ、松田 彩音\n配信種別: reco
+ rded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:wmQNCdpHcKX9Kf0CfUoH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜 昼公演
+DTSTART:20261123T043000Z
+DTEND:20261123T063000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2116142594589917436
+END:VEVENT
+BEGIN:VEVENT
+UID:DLIeOQ7rSnFBkWcgu6kL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜 夜公演
+DTSTART:20261123T083000Z
+DTEND:20261123T103000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2116142594589917436
+END:VEVENT
+BEGIN:VEVENT
+UID:O7kMka7IqUdTjaWs2NaL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩香奈のはないわーるど！
+DTSTART:20261123T090000Z
+DTEND:20261123T093000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:u3kXLuV2PxQ4HOl0Wdyv@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261123T140000Z
+DTEND:20261123T143000Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ieIj1qIuZfE7eDbTtk6S@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カンナヒカル（仮）
+DTSTART:20261124T100000Z
+DTEND:20261124T110000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1nnuh0fp9U8QuWt3u4@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:浅見香月の月まで大ぼーそー！
+DTSTART:20261124T110000Z
+DTEND:20261124T114500Z
+DESCRIPTION:出演者: 浅見 香月\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:sUlOnnJSDzh4nN5oI9c6@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやのStreaming Club
+DTSTART:20261125T030000Z
+DTEND:20261125T040000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: live\n出典: https://gaku
+ sei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:iItb1hpo9XyB3zy2yxkq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおい様のお世話係に転生したので、生涯を
+ かけて尽くします！～「いただきます」したと思った
+ ら既に「ごちそうさま」していた件～
+DTSTART:20261125T100000Z
+DTEND:20261125T110000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4Mr9jtM1WqUA6lOG8rha@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 初星学園放送部
+DTSTART:20261125T120000Z
+DTEND:20261125T130000Z
+DESCRIPTION:出演者: 村田 綾香、学園アイドルマスター\n配
+ 信種別: recorded\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:O7MN91SB0Q9STYoaJW9F@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのStreaming Club
+DTSTART:20261126T030000Z
+DTEND:20261126T040000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: live\n出典: https:
+ //gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:naHg0ypfcQ0PePIIZIc4@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』①
+DTSTART:20261126T100000Z
+DTEND:20261126T120000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:QnWkI9gC6sbfSXdHbPy7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』②
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:XWYHXf8mwCR2KgD9n05L@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』③
+DTSTART:20261127T100000Z
+DTEND:20261127T120000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:WGhqDW865FZIJUpBujYw@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖ののんたいとる
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:eNHOZ3DLWXwovkkqKK9X@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやの一枚いいですか？
+DTSTART:20261127T140000Z
+DTEND:20261127T143000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: recorded\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:BtA7DU9nPB3nSN5WSUiS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ブルアカ』トークステージ
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2095718520894234798
+END:VEVENT
+BEGIN:VEVENT
+UID:PqP5HfurWtvjBlfX95LF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』④
+DTSTART:20261128T043000Z
+DTEND:20261128T063000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:cljezViFT0CPGbvALyxM@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ステラソラ』トークステージ
+DTSTART:20261128T074000Z
+DTEND:20261128T082500Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2105951714272739531
+END:VEVENT
+BEGIN:VEVENT
+UID:RzVwvNOhCGYFLXhYime9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:舞台『#イエローが死んだ』⑤
+DTSTART:20261128T093000Z
+DTEND:20261128T113000Z
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/tsumugi_nanase/status/2107417691464311023
+END:VEVENT
+BEGIN:VEVENT
+UID:nnEXb2Js22hUrJBUScoC@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:羽衣6 2nd Live 『GEISHO-UI 2』
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/Iida_Hikaru_828/status/2085702848348860894
+END:VEVENT
+BEGIN:VEVENT
+UID:oVpXRT5k3lA695LGsPHy@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ブルアカ』トークステージ
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2095718520894234798
+END:VEVENT
+BEGIN:VEVENT
+UID:S4gOp1DP9jJUKlfBxkol@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:マウスプロモーション附属俳優養成所 アフレコ授
+ 業見学体験会⑱
+DTSTART:20261129T021000Z
+DTEND:20261129T052000Z
+DESCRIPTION:出演者: 村田 綾香\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mausu_youseijyo/status/2095794798578020380
+END:VEVENT
+BEGIN:VEVENT
+UID:KfAP3lE8WbzKq9TFap6P@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
+ 〜【ゲスト：川村玲奈】 昼の部
+DTSTART:20261129T041500Z
+DTEND:20261129T063000Z
+DESCRIPTION:出演者: 湊 みや、川村 玲奈\n配信種別: other\n出
+ 典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/3710miyacame/status/2077742988747547055
+END:VEVENT
+BEGIN:VEVENT
+UID:rFQGSBZN8K1vwqAHkIH1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:KPF2026 『ステラソラ』トークステージ
+DTSTART:20261129T051500Z
+DTEND:20261129T060000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukari_amane_/status/2105951714272739531
+END:VEVENT
+BEGIN:VEVENT
+UID:EUUuINw65Jne3oMVd4Ev@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:マウスプロモーション附属俳優養成所 アフレコ授
+ 業見学体験会⑲
+DTSTART:20261129T064000Z
+DTEND:20261129T095000Z
+DESCRIPTION:出演者: 村田 綾香\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/mausu_youseijyo/status/2095794798578020380
+END:VEVENT
+BEGIN:VEVENT
+UID:bpp7LajcemrGlAr7SqKd@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
+ 〜【ゲスト：川村玲奈】 夜の部
+DTSTART:20261129T074500Z
+DTEND:20261129T100000Z
+DESCRIPTION:出演者: 湊 みや、川村 玲奈\n配信種別: other\n出
+ 典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/3710miyacame/status/2077742988747547055
+END:VEVENT
+BEGIN:VEVENT
+UID:i39CsKSdGyvzPzqzUvFq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:LISANI！TAIPEI 2026 SUNDAY STAGE
+DTSTART:20261129T080000Z
+DTEND:20261129T120000Z
+DESCRIPTION:出演者: 陽高 真白\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/hitaka_mashiro/status/2101946002131595472
+END:VEVENT
+BEGIN:VEVENT
+UID:yQCi7Mi9R9Tlu7HyKa5f@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩香奈のはないわーるど！
+DTSTART:20261130T090000Z
+DTEND:20261130T093000Z
+DESCRIPTION:出演者: 花岩 香奈\n配信種別: recorded\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:neOMeSLZ0LwL2sWliimX@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月あおいのOne and Only
+DTSTART:20261130T110000Z
+DTEND:20261130T120000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: recorded\n出典: ht
+ tps://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:uMBPD7m4XQBZcjIKD5Lh@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん
+DTSTART:20261130T140000Z
+DTEND:20261130T143000Z
+DESCRIPTION:出演者: 川村 玲奈、薄井 友里\n配信種別: recorde
+ d\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:fofRcJXV255cHLbj69iS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:爆剣-本能寺消滅記-
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/Harusaki_non/status/2100912913150300161
+END:VEVENT
+BEGIN:VEVENT
+UID:UkkSOaVtgpk4lOfpSbXE@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:爆剣-本能寺消滅記-
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/Harusaki_non/status/2100912913150300161
+END:VEVENT
+BEGIN:VEVENT
+UID:okl4asYdeBObfOVmmzv1@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:爆剣-本能寺消滅記-
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/Harusaki_non/status/2100912913150300161
+END:VEVENT
+BEGIN:VEVENT
+UID:ztz85foFmhdx8oQPVA0V@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:爆剣-本能寺消滅記-
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/Harusaki_non/status/2100912913150300161
+END:VEVENT
+BEGIN:VEVENT
+UID:hkmmHUOGiAdwjQMNZ8AS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:爆剣-本能寺消滅記-
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/Harusaki_non/status/2100912913150300161
+END:VEVENT
+BEGIN:VEVENT
+UID:T4h5jFuI1RbBw0a0zLX7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 【ゲスト：川村玲
+ 奈、浅見香月】昼の部
+DTSTART:20261213T034500Z
+DTEND:20261213T051500Z
+DESCRIPTION:出演者: 川村 玲奈、浅見 香月\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088205339749654630
+END:VEVENT
+BEGIN:VEVENT
+UID:tXddnEESOA5ce1QBWHiS@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 【ゲスト：川村玲
+ 奈、浅見香月】夜の部
+DTSTART:20261213T071500Z
+DTEND:20261213T084500Z
+DESCRIPTION:出演者: 川村 玲奈、浅見 香月\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088205339749654630
+END:VEVENT
+BEGIN:VEVENT
+UID:4ocEiigYEftsKgMXoMsV@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【1部】
+DTSTART:20261219T030000Z
+DTEND:20261219T050000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:sqeb4YOeD8Ct6rDlBF9M@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:声グラクリスマス2026 昼の部
+DTSTART:20261219T030000Z
+DTEND:20261219T053000Z
+DESCRIPTION:出演者: 薄井 友里、花岩 香奈\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2113572222795395333
+END:VEVENT
+BEGIN:VEVENT
+UID:NHCPkgzNdfTNqXUc6cTi@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:カラオケイベント「うたろぐ vol.4」【2部】
+DTSTART:20261219T063000Z
+DTEND:20261219T083000Z
+DESCRIPTION:出演者: 松田 彩音、伊藤 舞音、天音 ゆかり\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2077317342762250400
+END:VEVENT
+BEGIN:VEVENT
+UID:ah6hr9MLCAbDgb0helV5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:声グラクリスマス2026 夜の部
+DTSTART:20261219T073000Z
+DTEND:20261219T100000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2113572222795395333
+END:VEVENT
+BEGIN:VEVENT
+UID:SoQPdOpWL0Mf7CuvNpW5@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ゲキクロ12周年企画 [GEKIROCK CLOTHING Presents"WEAR THE MUS
+ IC"] 
+DTSTART:20261220T040000Z
+DTEND:20261220T120000Z
+DESCRIPTION:出演者: 飯田 ヒカル、七瀬 つむぎ、湊 みや\n
+ 配信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gekirock_shop/status/2113105540700364853
+END:VEVENT
+BEGIN:VEVENT
+UID:Rw6pPjf8mobVAXuxWu1e@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:アリオ八尾でもオフレコでお願いします！ 昼の部
+DTSTART:20261220T043000Z
+DTEND:20261220T063000Z
+DESCRIPTION:出演者: 伊藤 舞音、花岩 香奈\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/amami_plus/status/2105130528638632097
+END:VEVENT
+BEGIN:VEVENT
+UID:4eloGUY4V4cqdQ9n7nAQ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:アリオ八尾でもオフレコでお願いします！ 夜の部
+DTSTART:20261220T080000Z
+DTEND:20261220T100000Z
+DESCRIPTION:出演者: 伊藤 舞音、花岩 香奈\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/amami_plus/status/2105130528638632097
+END:VEVENT
+BEGIN:VEVENT
+UID:DfDvOdqpLhlOlc6YtQ9A@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:アース･スター エンターテイメント 20周年FES ～
+ ずっと「ありがとう」、ずっと「よろしくね」!～
+DTSTART:20261226T070000Z
+DTEND:20261226T110000Z
+DESCRIPTION:出演者: 天音 ゆかり\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2088241237157724621
+END:VEVENT
+BEGIN:VEVENT
+UID:KwcMh18eZ5m59uLM3r2a@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田ヒカルのヒカROOM Route OKINAWA 数量限定特別版向
+ けイベント@東京
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/iidahikaroom/status/2094387266345177132
+END:VEVENT
+BEGIN:VEVENT
+UID:hXdxSDOHPgygBi7gCR09@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 昼の部
+DTSTART:20261227T030000Z
+DTEND:20261227T051500Z
+DESCRIPTION:出演者: 湊 みや、天音 ゆかり\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2083040928747679897
+END:VEVENT
+BEGIN:VEVENT
+UID:vlLNZZqNKrZ0gIwjA5wC@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖 1st Live「Light in Bloom」昼公演
+DTSTART:20261227T060000Z
+DTEND:20261227T080000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2056328959986475309
+END:VEVENT
+BEGIN:VEVENT
+UID:s70wFA53rPedQWVbjXnq@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 夜の部
+DTSTART:20261227T063000Z
+DTEND:20261227T084500Z
+DESCRIPTION:出演者: 湊 みや、天音 ゆかり\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2083040928747679897
+END:VEVENT
+BEGIN:VEVENT
+UID:1RlW2lLFWf61a4Wp6B01@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲暖 1st Live「Light in Bloom」夜公演
+DTSTART:20261227T093000Z
+DTEND:20261227T113000Z
+DESCRIPTION:出演者: 春咲 暖\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/i/status/2056328959986475309
+END:VEVENT
+BEGIN:VEVENT
+UID:TbVqi66gtIAFdBNnWwPM@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田ヒカルのヒカROOM Route OKINAWA 数量限定特別版向
+ けイベント@福岡
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/iidahikaroom/status/2094387266345177132
+END:VEVENT
+BEGIN:VEVENT
+UID:gXJPmIkShxAd8GvO5XZi@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:北海道ベストフレンドパーク 1部
+DTSTART:20270110T033000Z
+DTEND:20270110T053000Z
+DESCRIPTION:出演者: 花岩 香奈、薄井 友里\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/LunaField_T/status/2102324352159244499
+END:VEVENT
+BEGIN:VEVENT
+UID:SDln3kMgRX6mnduTgT4t@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:北海道ベストフレンドパーク 2部
+DTSTART:20270110T070000Z
+DTEND:20270110T090000Z
+DESCRIPTION:出演者: 花岩 香奈、薄井 友里\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/LunaField_T/status/2102324352159244499
+END:VEVENT
+BEGIN:VEVENT
+UID:Zep7vsTTbf3I3Js8k6yb@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:小鹿なお FanMeeting in Taipei 2027
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION:出演者: 小鹿 なお\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/ojikanao0809/status/2116422617163047323
+END:VEVENT
+BEGIN:VEVENT
+UID:zNJ7wpHvcdlUTYrNQfCT@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜写真集サイン会＞in 東京都
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:kTvHSMskra6HCiyJsKAK@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやファンミーティング in TOKYO 昼公演
+DTSTART:20270116T033000Z
+DTEND:20270116T053000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/miya_minato1216/status/2116158266866896908
+END:VEVENT
+BEGIN:VEVENT
+UID:dcJ3Sm5i9nxjHVtMqf3O@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊みやファンミーティング in TOKYO 夜公演
+DTSTART:20270116T080000Z
+DTEND:20270116T100000Z
+DESCRIPTION:出演者: 湊 みや\n配信種別: other\n出典: https://gak
+ usei-cheer-portal.web.app/calendar
+URL:https://x.com/miya_minato1216/status/2116158266866896908
+END:VEVENT
+BEGIN:VEVENT
+UID:kh3ZzqdjiwB2qlQ7CRQF@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬つむぎ1st写真集＜写真集サイン会＞in 大阪市
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DESCRIPTION:出演者: 七瀬 つむぎ\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seigura/status/2075384769798602855
+END:VEVENT
+BEGIN:VEVENT
+UID:GfKQ3dvBNm4K09AVPjP9@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 昼の部
+DTSTART:20270117T030000Z
+DTEND:20270117T051500Z
+DESCRIPTION:出演者: 天音 ゆかり、伊藤 舞音\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2073663170879615059
+END:VEVENT
+BEGIN:VEVENT
+UID:33D0Tdbea1XBjHQfTvv6@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:超時空捜査隊 マルキュー　第4回公演　メイク・
+ フレンズ編
+DTSTART:20270117T050000Z
+DTEND:20270117T070000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/Iida_Hikaru_828/status/2112843826968871108
+END:VEVENT
+BEGIN:VEVENT
+UID:fwdQRoN8b9JIRIyvbFte@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:みんなに会いに行くよ! in 静岡 夜の部
+DTSTART:20270117T063000Z
+DTEND:20270117T084500Z
+DESCRIPTION:出演者: 天音 ゆかり、伊藤 舞音\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2073663170879615059
+END:VEVENT
+BEGIN:VEVENT
+UID:9daFhUmNcpaYnTjJ1OAh@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:超時空捜査隊 マルキュー　第4回公演　ユニーク
+ ・ドールズ編
+DTSTART:20270117T080000Z
+DTEND:20270117T100000Z
+DESCRIPTION:出演者: 飯田 ヒカル\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/Iida_Hikaru_828/status/2112843826968871108
+END:VEVENT
+BEGIN:VEVENT
+UID:6nw5Mm4Bx0eR20tCahTa@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:Gravure Solo Collection Vol.2「Agitato」 発売
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2104522980969857234
+END:VEVENT
+BEGIN:VEVENT
+UID:48O2bRiLknwTrdGz3kmQ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルアカふぇす！〜ろっく・うぃず・みー♪〜 DAY
+ 1
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION:出演者: 浅見 香月\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kzk_asami_0105/status/2114596870941270102
+END:VEVENT
+BEGIN:VEVENT
+UID:wLmw6HMwISUYVgGzzoiJ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:ブルアカふぇす！〜ろっく・うぃず・みー♪〜 DAY
+ 2
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DESCRIPTION:出演者: 浅見 香月\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/kzk_asami_0105/status/2114596870941270102
+END:VEVENT
+BEGIN:VEVENT
+UID:rpVPGfJwYQEBQUGyAmV7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 昼の部
+DTSTART:20270124T041500Z
+DTEND:20270124T063000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:hOhS5TwO1dN3TV58kCzL@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
+ いしょん レク6〜はちゅもうで〜 夜の部
+DTSTART:20270124T074500Z
+DTEND:20270124T100000Z
+DESCRIPTION:出演者: 薄井 友里、川村 玲奈、伊藤 舞音、松
+ 田 彩音、天音 ゆかり\n配信種別: other\n出典: https://gakuse
+ i-cheer-portal.web.app/calendar
+URL:https://x.com/su_kawa_vg/status/2111788191573311899
+END:VEVENT
+BEGIN:VEVENT
+UID:SLuidLiPQmIR7pixlwCs@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:初星学園 Conceptual Single Collection 発売
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/gkmas_official/status/2104523235140546560
+END:VEVENT
+BEGIN:VEVENT
+UID:efm7kyKKC403mo85fljj@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田ヒカルのヒカROOM Route OKINAWA 数量限定特別版向
+ けイベント@大阪
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DESCRIPTION:配信種別: other\n出典: https://gakusei-cheer-portal.web.a
+ pp/calendar
+URL:https://x.com/iidahikaroom/status/2103831959332180348
+END:VEVENT
+BEGIN:VEVENT
+UID:PM8Rg6pZWWXHjFRhJTQs@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ことばとば】ゲスト：薄井友里さん 小鹿なおさ
+ ん 【1部】
+DTSTART:20270131T030000Z
+DTEND:20270131T053000Z
+DESCRIPTION:出演者: 薄井 友里、小鹿 なお\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2110294548614135834
+END:VEVENT
+BEGIN:VEVENT
+UID:utIj0TJpbuHJ2ofrPJLJ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【ことばとば】ゲスト：薄井友里さん 小鹿なおさ
+ ん 【2部】
+DTSTART:20270131T063000Z
+DTEND:20270131T090000Z
+DESCRIPTION:出演者: 薄井 友里、小鹿 なお\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/threclohiragana/status/2110294548614135834
+END:VEVENT
+BEGIN:VEVENT
+UID:8rg2pZpaKlWY4PtCX0g7@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:陽高真白バースデーライブ「陽高真白のにこにこ
+ 誕生日パーティー」
+DTSTART:20270205T090000Z
+DTEND:20270205T120000Z
+DESCRIPTION:出演者: 陽高 真白\n配信種別: other\n出典: https://
+ gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/hitaka_mashiro/status/2094037384694505919
+END:VEVENT
+BEGIN:VEVENT
+UID:JlJtqW7x1yXjsbcWyqSf@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:縁結びのゆかり様 『2nd EVENT⚔️縁と誓いの理想郷
+  昼の部』
+DTSTART:20270207T041500Z
+DTEND:20270207T063000Z
+DESCRIPTION:出演者: 天音 ゆかり、花岩 香奈、湊 みや\n配
+ 信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukarisama_en/status/2116506003273597360
+END:VEVENT
+BEGIN:VEVENT
+UID:5BiSqVsnFUXCEB05WclX@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:縁結びのゆかり様 『2nd EVENT⚔️縁と誓いの理想郷
+  夜の部』
+DTSTART:20270207T084500Z
+DTEND:20270207T110000Z
+DESCRIPTION:出演者: 天音 ゆかり、花岩 香奈、湊 みや\n配
+ 信種別: other\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/yukarisama_en/status/2116506003273597360
+END:VEVENT
+BEGIN:VEVENT
+UID:zY7wYmFgexo891p2pmpD@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:音泉祭り 2027 東京
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:出演者: 長月 あおい、七瀬 つむぎ、松田 彩音
+ 、飯田 ヒカル\n配信種別: other\n出典: https://gakusei-cheer-po
+ rtal.web.app/calendar
+URL:https://x.com/onsenradio/status/2068574914639204857
+END:VEVENT
+BEGIN:VEVENT
+UID:oJ7Y3lMELM9IcjSmGWha@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:制服カノジョ スペシャルイベント in バレンタイ
+ ン
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DESCRIPTION:出演者: 飯田 ヒカル、陽高 真白\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/seifukubu_love/status/2070069488490578346
+END:VEVENT
+BEGIN:VEVENT
+UID:GTn1P9yubjuneq4JnOig@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:誕生日 長月あおい
+DTSTART:20270330T100000Z
+DTEND:20270330T110000Z
+DESCRIPTION:出演者: 長月 あおい\n配信種別: other\n出典: https
+ ://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:syBZoXrGb79tma3LjQ9N@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【伊藤舞音、川村玲奈】みんなに会いに行くよ! in
+  静岡 昼の部
+DTSTART:20270411T030000Z
+DTEND:20270411T051500Z
+DESCRIPTION:出演者: 伊藤 舞音、川村 玲奈\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2107068705574404497
+END:VEVENT
+BEGIN:VEVENT
+UID:BjsKKrv2rDLUfeJvgBmv@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【伊藤舞音、川村玲奈】みんなに会いに行くよ! in
+  静岡 夜の部
+DTSTART:20270411T063000Z
+DTEND:20270411T084500Z
+DESCRIPTION:出演者: 伊藤 舞音、川村 玲奈\n配信種別: other\n
+ 出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2107068705574404497
+END:VEVENT
+BEGIN:VEVENT
+UID:fzoXpmf4mPNjgANTVbVI@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:学園アイドルマスター 3rd Anniversary
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DESCRIPTION:出演者: 学園アイドルマスター\n配信種別: other\
+ n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ogYv4WxfBeOx5mgTfgQH@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【飯田ヒカル、小鹿なお】みんなに会いに行くよ!
+  in 静岡 昼の部
+DTSTART:20270516T030000Z
+DTEND:20270516T051500Z
+DESCRIPTION:出演者: 飯田 ヒカル、小鹿 なお\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2111325784908657143
+END:VEVENT
+BEGIN:VEVENT
+UID:HvjfWh9P3zSZI9zzCZuZ@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:【飯田ヒカル、小鹿なお】みんなに会いに行くよ!
+  in 静岡 夜の部
+DTSTART:20270516T063000Z
+DTEND:20270516T084500Z
+DESCRIPTION:出演者: 飯田 ヒカル、小鹿 なお\n配信種別: othe
+ r\n出典: https://gakusei-cheer-portal.web.app/calendar
+URL:https://x.com/2ndl_info/status/2111325784908657143
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-nagatsuki_aoi-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 花海 咲季 誕生日
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-nagatsuki_aoi-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:長月 あおいさん 誕生日
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-ojika_nao-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 月村 手毬 誕生日
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-ojika_nao-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:小鹿 なおさん 誕生日
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-iida_hikaru-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 藤田 ことね 誕生日
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-iida_hikaru-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:飯田 ヒカルさん 誕生日
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-nanase_tsumugi-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 有村 麻央 誕生日
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-nanase_tsumugi-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:七瀬 つむぎさん 誕生日
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-hanaiwa_kana-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 葛城 リーリヤ 誕生日
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-hanaiwa_kana-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:花岩 香奈さん 誕生日
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-ito_mao-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 倉本 千奈 誕生日
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-ito_mao-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:伊藤 舞音さん 誕生日
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-minato_miya-2026@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 紫雲 清夏 誕生日
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-minato_miya-2026@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊 みやさん 誕生日
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-minato_miya-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 紫雲 清夏 誕生日
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-minato_miya-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:湊 みやさん 誕生日
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-kawamura_reina-2026@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 篠澤 広 誕生日
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-kawamura_reina-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 篠澤 広 誕生日
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-kawamura_reina-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:川村 玲奈さん 誕生日
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-usui_yuri-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 姫崎 莉波 誕生日
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-usui_yuri-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:薄井 友里さん 誕生日
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-matsuda_ayane-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 花海 佑芽 誕生日
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-matsuda_ayane-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:松田 彩音さん 誕生日
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-hitaka_mashiro-2026@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 十王 星南 誕生日
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-hitaka_mashiro-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 十王 星南 誕生日
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-hitaka_mashiro-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:陽高 真白さん 誕生日
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-harusaki_non-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 秦谷 美鈴 誕生日
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-harusaki_non-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:春咲 暖さん 誕生日
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-amane_yukari-2026@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音 ゆかりさん 誕生日
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-char-amane_yukari-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY: 雨夜 燕 誕生日
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-amane_yukari-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:天音 ゆかりさん 誕生日
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-asami_kzk-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:浅見 香月さん 誕生日
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bday-cast-murata_ayaka-2027@gakusei-cheer-portal.web.app
+DTSTAMP:20261101T110138Z
+SUMMARY:村田 綾香さん 誕生日
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+DESCRIPTION:配信種別: other\n誕生日\n出典: https://gakusei-cheer-p
+ ortal.web.app/calendar
+URL:https://gakusei-cheer-portal.web.app/calendar
+END:VEVENT
+END:VCALENDAR
