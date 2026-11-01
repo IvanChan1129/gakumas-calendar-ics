@@ -1,0 +1,49 @@
+
+name: Split ICS by voice actor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '13 16 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'calendar.ics'
+      - 'split_casts.py'
+      - '.github/workflows/split-casts.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gakumas-cast-ics-splitter
+  cancel-in-progress: false
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Split calendar by cast
+        run: python split_casts.py --input calendar.ics --output-dir casts
+
+      - name: Commit updated calendars
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A casts/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update voice actor ICS feeds"
+            git push
+          else
+            echo "No changes in cast feeds."
+          fi
