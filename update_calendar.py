@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""Read public schedule data through the site's own Firestore client and emit an ICS feed.
+"""Use the public site's normal date-filtered queries to build an ICS feed.
 
-No HAR tokens, API keys, or Firebase project credentials are needed. The bridge
-instruments a function already executed by the site's public calendar page.
+The script does not bypass App Check or Firestore security rules.
 """
 from __future__ import annotations
 
@@ -20,10 +19,11 @@ SITE = "https://gakusei-cheer-portal.web.app/calendar"
 JST = ZoneInfo("Asia/Tokyo")
 UTC = timezone.utc
 # Exact marker checked against the website's 2026-11-01 calendar bundle.
-BRIDGE_MARKER = "loadAllScheduleEvents:v,saveEventToDb:y"
+BRIDGE_MARKER = "loadVisibleMonths:_,loadAllScheduleEvents:v,saveEventToDb:y"
 BRIDGE_REPLACEMENT = (
-    "loadAllScheduleEvents:(window.__ICS_BRIDGE__="
-    "{fetchAll:v,getData:()=>bb.value},v),saveEventToDb:y"
+    "loadVisibleMonths:(window.__ICS_BRIDGE__="
+    "{loadMonths:_,getData:()=>yb.value},_),"
+    "loadAllScheduleEvents:v,saveEventToDb:y"
 )
 
 
@@ -164,7 +164,7 @@ def serialize_events(events: list[dict], *, today: date | None = None, now: date
     return content.encode("utf-8"), used
 
 
-def fetch_events(*, visible: bool = False, timeout: int = 100) -> list[dict]:
+def fetch_events(*, visible: bool = False, months: int = 60) -> list[dict]:
     from playwright.sync_api import sync_playwright
 
     with sync_playwright() as p:
@@ -194,16 +194,29 @@ def fetch_events(*, visible: bool = False, timeout: int = 100) -> list[dict]:
             page.wait_for_function("Boolean(window.__ICS_BRIDGE__)", timeout=45000)
             if not hit["patched"]:
                 raise RuntimeError("Website JS bundle has changed; bridge was not installed")
-            # Site-defined Firestore getDocs on the public schedules collection.
-            # It resolves to plain JS event objects without passing Firebase tokens
-            # outside the browser; Firebase App Check is handled by the website.
-            page.evaluate("""async () => {
-                const bridge = window.__ICS_BRIDGE__;
-                await bridge.fetchAll();
-                if (!Array.isArray(bridge.getData())) {
-                    throw Error('Website did not return an event array');
-                }
-            }""")
+            # The live website only requests date-bounded windows; an unbounded
+            # Firestore collection scan may violate its query security rules.
+            # We call its exact date-window loader in 5-month blocks.
+            # This still respects any App Check and Firestore access decisions.
+            errors = []
+            def on_console(msg):
+                if msg.type == "error" and "Firestore Server Fetch Error" in msg.text:
+                    errors.append(msg.text)
+            page.on("console", on_console)
+            for offset in range(0, months, 5):
+                size = min(5, months - offset)
+                page.evaluate("""async ({offset, size}) => {
+                    const bridge = window.__ICS_BRIDGE__;
+                    const today = new Date();
+                    const from = new Date(today.getFullYear(), today.getMonth() + offset, 1);
+                    const to = new Date(today.getFullYear(), today.getMonth() + offset + size - 1, 1);
+                    await bridge.loadMonths(from, to);
+                    if (!Array.isArray(bridge.getData())) {
+                        throw Error('Website did not return an event array');
+                    }
+                }""", {"offset":offset,"size":size})
+                if errors:
+                    raise RuntimeError("Firestore denied a date-filtered query: " + errors[-1])
             events = page.evaluate("window.__ICS_BRIDGE__.getData()")
             if not isinstance(events, list) or not events:
                 raise RuntimeError("Site returned no schedule data; leaving previous calendar untouched")
@@ -217,13 +230,16 @@ def main():
     parser = argparse.ArgumentParser(description="Refresh the public Gakusei Cheer ICS subscription")
     parser.add_argument("--output", default="calendar.ics")
     parser.add_argument("--visible", action="store_true", help="Open Chromium UI for troubleshooting")
+    parser.add_argument("--months", type=int, default=60, help="Rolling months to query, default 60")
     parser.add_argument("--from-json", help="Offline test input: public event objects as a JSON array")
     args = parser.parse_args()
     try:
         if args.from_json:
             events = json.loads(Path(args.from_json).read_text(encoding="utf-8"))
         else:
-            events = fetch_events(visible=args.visible)
+            if not 1 <= args.months <= 120:
+                parser.error("--months must be 1 to 120")
+            events = fetch_events(visible=args.visible, months=args.months)
         data, count = serialize_events(events)
         if count == 0:
             raise RuntimeError("No today/future events found; refuse to overwrite existing calendar")
