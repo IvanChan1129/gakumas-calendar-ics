@@ -14,17 +14,11 @@ import sys
 from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from urllib.parse import quote
 
 SITE = "https://gakusei-cheer-portal.web.app/calendar"
 JST = ZoneInfo("Asia/Tokyo")
 UTC = timezone.utc
-# Exact marker checked against the website's 2026-11-01 calendar bundle.
-BRIDGE_MARKER = "loadVisibleMonths:_,loadAllScheduleEvents:v,saveEventToDb:y"
-BRIDGE_REPLACEMENT = (
-    "loadVisibleMonths:(window.__ICS_BRIDGE__="
-    "{loadMonths:_,getData:()=>yb.value},_),"
-    "loadAllScheduleEvents:v,saveEventToDb:y"
-)
 
 
 def escape_ics(value: object) -> str:
@@ -129,7 +123,7 @@ def serialize_events(events: list[dict], *, today: date | None = None, now: date
         doc_id = str(event.get("id") or "")
         if not doc_id:
             doc_id = hashlib.sha256(json.dumps(event, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:24]
-        uid = f"{hashlib.sha256(doc_id.encode()).hexdigest()[:32]}@gakusei-cheer-portal.web.app"
+        uid = quote(doc_id, safe="~()*! .'".replace(" ", "")) + "@gakusei-cheer-portal.web.app"
         if uid in unique:
             continue
         unique.add(uid)
@@ -164,62 +158,68 @@ def serialize_events(events: list[dict], *, today: date | None = None, now: date
     return content.encode("utf-8"), used
 
 
-def fetch_events(*, visible: bool = False, months: int = 60) -> list[dict]:
+def fetch_events(*, visible: bool = False, months: int = 18) -> list[dict]:
+    """Read the original site's module after its initial server query finishes.
+
+    No bundle replacement, credential copying, or security-check changes.
+    Any denied query aborts the export instead of publishing partial results.
+    """
     from playwright.sync_api import sync_playwright
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=not visible, args=["--no-sandbox"] if not visible else [])
-        context = browser.new_context(locale="ja-JP", timezone_id="Asia/Tokyo", service_workers="block")
+        browser = p.chromium.launch(headless=not visible)
+        context = browser.new_context(locale="ja-JP", timezone_id="Asia/Tokyo")
         page = context.new_page()
-        hit = {"patched": 0}
+        errors = []
+        ready = {"server": False}
 
-        def patch(route):
-            response = route.fetch(timeout=30000)
-            body = response.body()
-            script = body.decode("utf-8")
-            if BRIDGE_MARKER in script:
-                script = script.replace(BRIDGE_MARKER, BRIDGE_REPLACEMENT, 1)
-                hit["patched"] += 1
-                headers = dict(response.headers)
-                # Changed JS response must not inherit stale length/encoding.
-                for h in ("content-length", "content-encoding", "transfer-encoding", "etag"):
-                    headers.pop(h, None)
-                route.fulfill(status=response.status, headers=headers, body=script.encode("utf-8"))
-            else:
-                route.fulfill(response=response)
+        def on_console(msg):
+            message = msg.text
+            if "サーバーの最新データで更新しました" in message:
+                ready["server"] = True
+            if msg.type == "error" and any(word in message for word in (
+                "Firestore", "FirebaseError", "permission-denied", "AppCheck", "appCheck")):
+                errors.append(message[:800])
 
-        page.route("**/assets/main-*.js", patch)
+        page.on("console", on_console)
         try:
-            page.goto(SITE, wait_until="domcontentloaded", timeout=45000)
-            page.wait_for_function("Boolean(window.__ICS_BRIDGE__)", timeout=45000)
-            if not hit["patched"]:
-                raise RuntimeError("Website JS bundle has changed; bridge was not installed")
-            # The live website only requests date-bounded windows; an unbounded
-            # Firestore collection scan may violate its query security rules.
-            # We call its exact date-window loader in 5-month blocks.
-            # This still respects any App Check and Firestore access decisions.
-            errors = []
-            def on_console(msg):
-                if msg.type == "error" and "Firestore Server Fetch Error" in msg.text:
-                    errors.append(msg.text)
-            page.on("console", on_console)
-            for offset in range(0, months, 5):
-                size = min(5, months - offset)
-                page.evaluate("""async ({offset, size}) => {
-                    const bridge = window.__ICS_BRIDGE__;
-                    const today = new Date();
-                    const from = new Date(today.getFullYear(), today.getMonth() + offset, 1);
-                    const to = new Date(today.getFullYear(), today.getMonth() + offset + size - 1, 1);
-                    await bridge.loadMonths(from, to);
-                    if (!Array.isArray(bridge.getData())) {
-                        throw Error('Website did not return an event array');
-                    }
-                }""", {"offset":offset,"size":size})
+            print("Stage 1: loading the unmodified calendar page", flush=True)
+            page.goto(SITE, wait_until="domcontentloaded", timeout=60000)
+            import time as clock
+            deadline = clock.monotonic() + 60
+            while not ready["server"]:
                 if errors:
-                    raise RuntimeError("Firestore denied a date-filtered query: " + errors[-1])
-            events = page.evaluate("window.__ICS_BRIDGE__.getData()")
+                    raise RuntimeError("Initial website query failed: " + errors[-1])
+                if clock.monotonic() >= deadline:
+                    raise RuntimeError("No confirmed initial server response within 60 seconds")
+                page.wait_for_timeout(250)
+            print("Stage 1: normal website server query succeeded", flush=True)
+            page.evaluate(r"""async () => {
+                const script = [...document.querySelectorAll('script[type="module"][src]')]
+                    .find(el => /\/assets\/main-[^/]+\.js(?:\?.*)?$/.test(el.src));
+                if (!script) throw Error('Website main module not found');
+                const app = await import(script.src);
+                if (typeof app.i !== 'function') throw Error('Website module export changed');
+                const state = app.i();
+                if (!Array.isArray(state.events?.value) || typeof state.loadVisibleMonths !== 'function')
+                    throw Error('Website calendar state changed');
+                window.__ICS_READ_STATE__ = state;
+            }""")
+            # One preceding month retains ongoing events that began last month.
+            for offset in range(-1, months):
+                print(f"Stage 2: reading month offset {offset}", flush=True)
+                page.evaluate("""async offset => {
+                    const state = window.__ICS_READ_STATE__;
+                    const now = new Date();
+                    const month = new Date(now.getFullYear(), now.getMonth() + offset, 1);
+                    await state.loadVisibleMonths(month, month);
+                }""", offset)
+                if errors:
+                    raise RuntimeError(f"Month offset {offset} failed: " + errors[-1])
+            events = page.evaluate("JSON.parse(JSON.stringify(window.__ICS_READ_STATE__.events.value))")
             if not isinstance(events, list) or not events:
-                raise RuntimeError("Site returned no schedule data; leaving previous calendar untouched")
+                raise RuntimeError("No schedule data; preserving previous calendar")
+            print(f"Stage 2: received {len(events)} source events", flush=True)
             return events
         finally:
             context.close()
@@ -230,7 +230,7 @@ def main():
     parser = argparse.ArgumentParser(description="Refresh the public Gakusei Cheer ICS subscription")
     parser.add_argument("--output", default="calendar.ics")
     parser.add_argument("--visible", action="store_true", help="Open Chromium UI for troubleshooting")
-    parser.add_argument("--months", type=int, default=60, help="Rolling months to query, default 60")
+    parser.add_argument("--months", type=int, default=18, help="Rolling months to query, default 18")
     parser.add_argument("--from-json", help="Offline test input: public event objects as a JSON array")
     args = parser.parse_args()
     try:
@@ -245,6 +245,11 @@ def main():
             raise RuntimeError("No today/future events found; refuse to overwrite existing calendar")
         output = Path(args.output)
         output.parent.mkdir(parents=True, exist_ok=True)
+        if output.exists():
+            old = output.read_text(encoding="utf-8")
+            old_count = old.count("BEGIN:VEVENT")
+            if old_count >= 12 and count < old_count * 0.45:
+                raise RuntimeError(f"Event count dropped from {old_count} to {count}; refusing replacement")
         temp = output.with_suffix(output.suffix + ".tmp")
         temp.write_bytes(data)
         temp.replace(output)

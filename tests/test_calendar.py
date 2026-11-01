@@ -12,6 +12,7 @@ class TestCalendar(unittest.TestCase):
         content, count = serialize_events(fixtures, today=date(2026,11,1), now=datetime(2026,11,1,tzinfo=timezone.utc))
         s = content.decode()
         self.assertEqual(count,2)
+        self.assertIn('UID:a@gakusei-cheer-portal.web.app', s)
         self.assertIn('DTSTART:20261101T100000Z', s)
         self.assertIn('DTEND:20261101T110000Z', s)
         self.assertIn('DTSTART;VALUE=DATE:20261103', s)
